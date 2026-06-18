@@ -1,1 +1,9 @@
-
+ START
+   |
+Input Celsius Temperature
+   |
+Apply (C×9/5)+32
+   |
+Display Fahrenheit
+   |
+ STOP
