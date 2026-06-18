@@ -1,1 +1,6 @@
-
+Start the program.
+Read Celsius temperature.
+Apply conversion formula.
+Display Fahrenheit temperature.
+Stop.
+Fahrenheit=(Celsius×9/5)+32
