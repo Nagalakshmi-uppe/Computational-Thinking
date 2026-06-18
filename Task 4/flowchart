@@ -1,1 +1,9 @@
-
+ START
+   |
+Input Radius
+   |
+Calculate π*r*r
+   |
+Display Area
+   |
+ STOP
