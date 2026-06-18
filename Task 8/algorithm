@@ -1,1 +1,4 @@
-
+Read two variables.
+Swap the values using a temporary variable.
+Display the swapped values.
+Stop.
